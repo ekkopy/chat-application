@@ -4,13 +4,13 @@ import kivy
 from os import (
     path
 )
+import client
 from kivy.app import App
 from kivy.uix.label import Label
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
-# Buttons on kivy
+# Settings
 from kivy.uix.button import Button
-# To change Screens on kivy
 from kivy.uix.screenmanager import ScreenManager, Screen
 
 # Version on Kivy
